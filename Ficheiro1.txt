@@ -1,0 +1,4 @@
+Olá, o meu nome é Takeshi_Uraya
+
+  git config --global user.email "a85229@ualg.pt"
+  git config --global user.name "a85229"
